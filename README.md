@@ -1,4 +1,4 @@
-# Stacks-and-Trees
+# Stacks and Trees
 A Python CLI tool I built to practice Stacks and Trees. It demonstrates how text editors use stacks for undo/redo actions and how file systems use trees to organize files.
 
 # Data Structures CLI Utility
